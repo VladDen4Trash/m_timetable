@@ -1,0 +1,16 @@
+{
+  "name": "mireatimetable_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-json-modules start"
+  },
+  "author": "VD",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.2.5",
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
